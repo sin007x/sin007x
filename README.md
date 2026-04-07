@@ -16,6 +16,12 @@
 
 **Security & Infrastructure** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sin007x&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sin007x&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sin007x&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sin007x&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sin007x&theme=default&utcOffset=8)
+
 ![Views](https://komarev.com/ghpvc/?username=sin007x&color=green&style=flat-square)
 
 
